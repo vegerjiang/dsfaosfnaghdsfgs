@@ -18,8 +18,8 @@
     
     "GPUBaseImageThresholdSketchFilter":{
         "filterName":"GPUBaseImageThresholdSketchFilter",
-        "filterType":"GPBase",
-        "configPath":"GPBase/GPUBaseImageThresholdSketchFilter/GPUBaseImageThresholdSketchFilter.config"
+        "filterType":"GPUBase",
+        "configPath":"GPUBase/GPUBaseImageThresholdSketchFilter/GPUBaseImageThresholdSketchFilter.config"
     },
     
  

@@ -59,6 +59,7 @@
 		22A384CB19418B1400596641 /* config_combination.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = config_combination.js; sourceTree = "<group>"; };
 		22A384D019418BB900596641 /* test1.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test1.config; sourceTree = "<group>"; };
 		22A384D119418BC800596641 /* test2.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test2.config; sourceTree = "<group>"; };
+		22AA98201942185400819F69 /* test3.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test3.config; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,6 +173,7 @@
 			children = (
 				22A384CE19418B5E00596641 /* test1 */,
 				22A384CF19418B5E00596641 /* test2 */,
+				22AA981F1942182F00819F69 /* test3 */,
 			);
 			path = combination;
 			sourceTree = "<group>";
@@ -190,6 +192,14 @@
 				22A384D119418BC800596641 /* test2.config */,
 			);
 			path = test2;
+			sourceTree = "<group>";
+		};
+		22AA981F1942182F00819F69 /* test3 */ = {
+			isa = PBXGroup;
+			children = (
+				22AA98201942185400819F69 /* test3.config */,
+			);
+			path = test3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

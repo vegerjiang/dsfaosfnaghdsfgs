@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "VGLocalData.h"
+#import "VGNetData.h"
 
 int main(int argc, const char * argv[])
 {
@@ -16,7 +17,8 @@ int main(int argc, const char * argv[])
         
         // insert code here...
 //        NSLog(@"Hello, World!");
-        [[[VGLocalData alloc] init] start];
+//        [[[VGLocalData alloc] init] start];
+        [[[VGNetData alloc] init] start];
         
     }
     return 0;

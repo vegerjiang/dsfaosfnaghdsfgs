@@ -16,6 +16,7 @@
 		22A36366194146F500657397 /* VGParamFloat.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A36360194146F500657397 /* VGParamFloat.m */; };
 		22A36367194146F500657397 /* VGParamGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A36362194146F500657397 /* VGParamGroup.m */; };
 		22A36368194146F500657397 /* VGParamVector.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A36364194146F500657397 /* VGParamVector.m */; };
+		22A3636B194149F200657397 /* VGNetData.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A3636A194149F200657397 /* VGNetData.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -52,6 +53,8 @@
 		22A36362194146F500657397 /* VGParamGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VGParamGroup.m; sourceTree = "<group>"; };
 		22A36363194146F500657397 /* VGParamVector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VGParamVector.h; sourceTree = "<group>"; };
 		22A36364194146F500657397 /* VGParamVector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VGParamVector.m; sourceTree = "<group>"; };
+		22A36369194149F200657397 /* VGNetData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VGNetData.h; sourceTree = "<group>"; };
+		22A3636A194149F200657397 /* VGNetData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VGNetData.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +103,8 @@
 				22A362F319413A6D00657397 /* Supporting Files */,
 				22A3630519413B4500657397 /* VGLocalData.h */,
 				22A3630619413B4500657397 /* VGLocalData.m */,
+				22A36369194149F200657397 /* VGNetData.h */,
+				22A3636A194149F200657397 /* VGNetData.m */,
 			);
 			path = DIYFilter;
 			sourceTree = "<group>";
@@ -211,6 +216,7 @@
 				22A36365194146F500657397 /* VGParamBase.m in Sources */,
 				22A3630719413B4500657397 /* VGLocalData.m in Sources */,
 				22A3630419413A9600657397 /* config_base.js in Sources */,
+				22A3636B194149F200657397 /* VGNetData.m in Sources */,
 				22A36368194146F500657397 /* VGParamVector.m in Sources */,
 				22A36367194146F500657397 /* VGParamGroup.m in Sources */,
 				22A36366194146F500657397 /* VGParamFloat.m in Sources */,

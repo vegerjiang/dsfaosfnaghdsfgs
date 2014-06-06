@@ -10,14 +10,12 @@
 		22A362EF19413A6C00657397 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A362EE19413A6C00657397 /* Foundation.framework */; };
 		22A362F219413A6C00657397 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A362F119413A6C00657397 /* main.m */; };
 		22A362F619413A6D00657397 /* DIYFilter.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 22A362F519413A6D00657397 /* DIYFilter.1 */; };
-		22A3630419413A9600657397 /* config_base.js in Sources */ = {isa = PBXBuildFile; fileRef = 22A3630319413A9600657397 /* config_base.js */; };
 		22A3630719413B4500657397 /* VGLocalData.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A3630619413B4500657397 /* VGLocalData.m */; };
 		22A36365194146F500657397 /* VGParamBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A3635E194146F500657397 /* VGParamBase.m */; };
 		22A36366194146F500657397 /* VGParamFloat.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A36360194146F500657397 /* VGParamFloat.m */; };
 		22A36367194146F500657397 /* VGParamGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A36362194146F500657397 /* VGParamGroup.m */; };
 		22A36368194146F500657397 /* VGParamVector.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A36364194146F500657397 /* VGParamVector.m */; };
 		22A3636B194149F200657397 /* VGNetData.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A3636A194149F200657397 /* VGNetData.m */; };
-		22A384CC19418B1400596641 /* config_combination.js in Sources */ = {isa = PBXBuildFile; fileRef = 22A384CB19418B1400596641 /* config_combination.js */; };
 		22AA9822194231E900819F69 /* config.js in Sources */ = {isa = PBXBuildFile; fileRef = 22AA9821194231E900819F69 /* config.js */; };
 /* End PBXBuildFile section */
 
@@ -40,11 +38,6 @@
 		22A362F119413A6C00657397 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		22A362F419413A6D00657397 /* DIYFilter-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DIYFilter-Prefix.pch"; sourceTree = "<group>"; };
 		22A362F519413A6D00657397 /* DIYFilter.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = DIYFilter.1; sourceTree = "<group>"; };
-		22A362FE19413A9600657397 /* move.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = move.config; sourceTree = "<group>"; };
-		22A362FF19413A9600657397 /* move.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = move.fsh; sourceTree = "<group>"; };
-		22A3630119413A9600657397 /* pinch.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pinch.config; sourceTree = "<group>"; };
-		22A3630219413A9600657397 /* pinch.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = pinch.fsh; sourceTree = "<group>"; };
-		22A3630319413A9600657397 /* config_base.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = config_base.js; sourceTree = "<group>"; };
 		22A3630519413B4500657397 /* VGLocalData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VGLocalData.h; sourceTree = "<group>"; };
 		22A3630619413B4500657397 /* VGLocalData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VGLocalData.m; sourceTree = "<group>"; };
 		22A3635D194146F500657397 /* VGParamBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VGParamBase.h; sourceTree = "<group>"; };
@@ -57,11 +50,14 @@
 		22A36364194146F500657397 /* VGParamVector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VGParamVector.m; sourceTree = "<group>"; };
 		22A36369194149F200657397 /* VGNetData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VGNetData.h; sourceTree = "<group>"; };
 		22A3636A194149F200657397 /* VGNetData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VGNetData.m; sourceTree = "<group>"; };
-		22A384CB19418B1400596641 /* config_combination.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = config_combination.js; sourceTree = "<group>"; };
-		22A384D019418BB900596641 /* test1.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test1.config; sourceTree = "<group>"; };
-		22A384D119418BC800596641 /* test2.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test2.config; sourceTree = "<group>"; };
-		22AA98201942185400819F69 /* test3.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test3.config; sourceTree = "<group>"; };
 		22AA9821194231E900819F69 /* config.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = config.js; sourceTree = "<group>"; };
+		22AA98281942438C00819F69 /* test1.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test1.config; sourceTree = "<group>"; };
+		22AA982A1942438C00819F69 /* test2.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test2.config; sourceTree = "<group>"; };
+		22AA982C1942438C00819F69 /* test3.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test3.config; sourceTree = "<group>"; };
+		22AA982F1942438C00819F69 /* move.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = move.config; sourceTree = "<group>"; };
+		22AA98301942438C00819F69 /* move.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = move.fsh; sourceTree = "<group>"; };
+		22AA98321942438C00819F69 /* pinch.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pinch.config; sourceTree = "<group>"; };
+		22AA98331942438C00819F69 /* pinch.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = pinch.fsh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,41 +115,12 @@
 		22A362F319413A6D00657397 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				22A384CD19418B4200596641 /* combination */,
-				22A362FC19413A9600657397 /* base */,
-				22A3630319413A9600657397 /* config_base.js */,
-				22A384CB19418B1400596641 /* config_combination.js */,
+				22AA98261942438C00819F69 /* Combination */,
+				22AA982D1942438C00819F69 /* VGBase */,
 				22A362F419413A6D00657397 /* DIYFilter-Prefix.pch */,
 				22AA9821194231E900819F69 /* config.js */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		22A362FC19413A9600657397 /* base */ = {
-			isa = PBXGroup;
-			children = (
-				22A362FD19413A9600657397 /* move */,
-				22A3630019413A9600657397 /* pinch */,
-			);
-			path = base;
-			sourceTree = "<group>";
-		};
-		22A362FD19413A9600657397 /* move */ = {
-			isa = PBXGroup;
-			children = (
-				22A362FE19413A9600657397 /* move.config */,
-				22A362FF19413A9600657397 /* move.fsh */,
-			);
-			path = move;
-			sourceTree = "<group>";
-		};
-		22A3630019413A9600657397 /* pinch */ = {
-			isa = PBXGroup;
-			children = (
-				22A3630119413A9600657397 /* pinch.config */,
-				22A3630219413A9600657397 /* pinch.fsh */,
-			);
-			path = pinch;
 			sourceTree = "<group>";
 		};
 		22A3635C194146F500657397 /* paramDef */ = {
@@ -171,38 +138,65 @@
 			path = paramDef;
 			sourceTree = "<group>";
 		};
-		22A384CD19418B4200596641 /* combination */ = {
+		22AA98261942438C00819F69 /* Combination */ = {
 			isa = PBXGroup;
 			children = (
-				22A384CE19418B5E00596641 /* test1 */,
-				22A384CF19418B5E00596641 /* test2 */,
-				22AA981F1942182F00819F69 /* test3 */,
+				22AA98271942438C00819F69 /* test1 */,
+				22AA98291942438C00819F69 /* test2 */,
+				22AA982B1942438C00819F69 /* test3 */,
 			);
-			path = combination;
+			path = Combination;
 			sourceTree = "<group>";
 		};
-		22A384CE19418B5E00596641 /* test1 */ = {
+		22AA98271942438C00819F69 /* test1 */ = {
 			isa = PBXGroup;
 			children = (
-				22A384D019418BB900596641 /* test1.config */,
+				22AA98281942438C00819F69 /* test1.config */,
 			);
 			path = test1;
 			sourceTree = "<group>";
 		};
-		22A384CF19418B5E00596641 /* test2 */ = {
+		22AA98291942438C00819F69 /* test2 */ = {
 			isa = PBXGroup;
 			children = (
-				22A384D119418BC800596641 /* test2.config */,
+				22AA982A1942438C00819F69 /* test2.config */,
 			);
 			path = test2;
 			sourceTree = "<group>";
 		};
-		22AA981F1942182F00819F69 /* test3 */ = {
+		22AA982B1942438C00819F69 /* test3 */ = {
 			isa = PBXGroup;
 			children = (
-				22AA98201942185400819F69 /* test3.config */,
+				22AA982C1942438C00819F69 /* test3.config */,
 			);
 			path = test3;
+			sourceTree = "<group>";
+		};
+		22AA982D1942438C00819F69 /* VGBase */ = {
+			isa = PBXGroup;
+			children = (
+				22AA982E1942438C00819F69 /* move */,
+				22AA98311942438C00819F69 /* pinch */,
+			);
+			path = VGBase;
+			sourceTree = "<group>";
+		};
+		22AA982E1942438C00819F69 /* move */ = {
+			isa = PBXGroup;
+			children = (
+				22AA982F1942438C00819F69 /* move.config */,
+				22AA98301942438C00819F69 /* move.fsh */,
+			);
+			path = move;
+			sourceTree = "<group>";
+		};
+		22AA98311942438C00819F69 /* pinch */ = {
+			isa = PBXGroup;
+			children = (
+				22AA98321942438C00819F69 /* pinch.config */,
+				22AA98331942438C00819F69 /* pinch.fsh */,
+			);
+			path = pinch;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,8 +253,6 @@
 				22A362F219413A6C00657397 /* main.m in Sources */,
 				22A36365194146F500657397 /* VGParamBase.m in Sources */,
 				22A3630719413B4500657397 /* VGLocalData.m in Sources */,
-				22A384CC19418B1400596641 /* config_combination.js in Sources */,
-				22A3630419413A9600657397 /* config_base.js in Sources */,
 				22A3636B194149F200657397 /* VGNetData.m in Sources */,
 				22A36368194146F500657397 /* VGParamVector.m in Sources */,
 				22A36367194146F500657397 /* VGParamGroup.m in Sources */,

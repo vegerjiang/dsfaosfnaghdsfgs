@@ -17,7 +17,7 @@
 		22A36367194146F500657397 /* VGParamGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A36362194146F500657397 /* VGParamGroup.m */; };
 		22A36368194146F500657397 /* VGParamVector.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A36364194146F500657397 /* VGParamVector.m */; };
 		22A3636B194149F200657397 /* VGNetData.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A3636A194149F200657397 /* VGNetData.m */; };
-		22A384CC19418B1400596641 /* config_conbination.js in Sources */ = {isa = PBXBuildFile; fileRef = 22A384CB19418B1400596641 /* config_conbination.js */; };
+		22A384CC19418B1400596641 /* config_combination.js in Sources */ = {isa = PBXBuildFile; fileRef = 22A384CB19418B1400596641 /* config_combination.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -56,7 +56,7 @@
 		22A36364194146F500657397 /* VGParamVector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VGParamVector.m; sourceTree = "<group>"; };
 		22A36369194149F200657397 /* VGNetData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VGNetData.h; sourceTree = "<group>"; };
 		22A3636A194149F200657397 /* VGNetData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VGNetData.m; sourceTree = "<group>"; };
-		22A384CB19418B1400596641 /* config_conbination.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = config_conbination.js; sourceTree = "<group>"; };
+		22A384CB19418B1400596641 /* config_combination.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = config_combination.js; sourceTree = "<group>"; };
 		22A384D019418BB900596641 /* test1.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test1.config; sourceTree = "<group>"; };
 		22A384D119418BC800596641 /* test2.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test2.config; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -119,7 +119,7 @@
 				22A384CD19418B4200596641 /* combination */,
 				22A362FC19413A9600657397 /* base */,
 				22A3630319413A9600657397 /* config_base.js */,
-				22A384CB19418B1400596641 /* config_conbination.js */,
+				22A384CB19418B1400596641 /* config_combination.js */,
 				22A362F419413A6D00657397 /* DIYFilter-Prefix.pch */,
 			);
 			name = "Supporting Files";
@@ -246,7 +246,7 @@
 				22A362F219413A6C00657397 /* main.m in Sources */,
 				22A36365194146F500657397 /* VGParamBase.m in Sources */,
 				22A3630719413B4500657397 /* VGLocalData.m in Sources */,
-				22A384CC19418B1400596641 /* config_conbination.js in Sources */,
+				22A384CC19418B1400596641 /* config_combination.js in Sources */,
 				22A3630419413A9600657397 /* config_base.js in Sources */,
 				22A3636B194149F200657397 /* VGNetData.m in Sources */,
 				22A36368194146F500657397 /* VGParamVector.m in Sources */,

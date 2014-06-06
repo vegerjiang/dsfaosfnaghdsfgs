@@ -18,6 +18,7 @@
 		22A36368194146F500657397 /* VGParamVector.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A36364194146F500657397 /* VGParamVector.m */; };
 		22A3636B194149F200657397 /* VGNetData.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A3636A194149F200657397 /* VGNetData.m */; };
 		22A384CC19418B1400596641 /* config_combination.js in Sources */ = {isa = PBXBuildFile; fileRef = 22A384CB19418B1400596641 /* config_combination.js */; };
+		22AA9822194231E900819F69 /* config.js in Sources */ = {isa = PBXBuildFile; fileRef = 22AA9821194231E900819F69 /* config.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -60,6 +61,7 @@
 		22A384D019418BB900596641 /* test1.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test1.config; sourceTree = "<group>"; };
 		22A384D119418BC800596641 /* test2.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test2.config; sourceTree = "<group>"; };
 		22AA98201942185400819F69 /* test3.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test3.config; sourceTree = "<group>"; };
+		22AA9821194231E900819F69 /* config.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = config.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				22A3630319413A9600657397 /* config_base.js */,
 				22A384CB19418B1400596641 /* config_combination.js */,
 				22A362F419413A6D00657397 /* DIYFilter-Prefix.pch */,
+				22AA9821194231E900819F69 /* config.js */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				22A3636B194149F200657397 /* VGNetData.m in Sources */,
 				22A36368194146F500657397 /* VGParamVector.m in Sources */,
 				22A36367194146F500657397 /* VGParamGroup.m in Sources */,
+				22AA9822194231E900819F69 /* config.js in Sources */,
 				22A36366194146F500657397 /* VGParamFloat.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

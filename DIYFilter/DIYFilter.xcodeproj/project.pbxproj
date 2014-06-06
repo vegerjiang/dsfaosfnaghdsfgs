@@ -58,6 +58,7 @@
 		22AA98301942438C00819F69 /* move.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = move.fsh; sourceTree = "<group>"; };
 		22AA98321942438C00819F69 /* pinch.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pinch.config; sourceTree = "<group>"; };
 		22AA98331942438C00819F69 /* pinch.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = pinch.fsh; sourceTree = "<group>"; };
+		22AA983E194253BE00819F69 /* GPUBaseImageThresholdSketchFilter.config */ = {isa = PBXFileReference; lastKnownFileType = text; path = GPUBaseImageThresholdSketchFilter.config; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +116,7 @@
 		22A362F319413A6D00657397 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				22AA983B1942534500819F69 /* GPUBase */,
 				22AA98261942438C00819F69 /* Combination */,
 				22AA982D1942438C00819F69 /* VGBase */,
 				22A362F419413A6D00657397 /* DIYFilter-Prefix.pch */,
@@ -197,6 +199,22 @@
 				22AA98331942438C00819F69 /* pinch.fsh */,
 			);
 			path = pinch;
+			sourceTree = "<group>";
+		};
+		22AA983B1942534500819F69 /* GPUBase */ = {
+			isa = PBXGroup;
+			children = (
+				22AA983D194253BE00819F69 /* GPUBaseImageThresholdSketchFilter */,
+			);
+			path = GPUBase;
+			sourceTree = "<group>";
+		};
+		22AA983D194253BE00819F69 /* GPUBaseImageThresholdSketchFilter */ = {
+			isa = PBXGroup;
+			children = (
+				22AA983E194253BE00819F69 /* GPUBaseImageThresholdSketchFilter.config */,
+			);
+			path = GPUBaseImageThresholdSketchFilter;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

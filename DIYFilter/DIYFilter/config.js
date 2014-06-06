@@ -15,6 +15,13 @@
     },
  
  
+    
+    "GPUBaseImageThresholdSketchFilter":{
+        "filterName":"GPUBaseImageThresholdSketchFilter",
+        "filterType":"GPBase",
+        "configPath":"GPBase/GPUBaseImageThresholdSketchFilter/GPUBaseImageThresholdSketchFilter.config"
+    },
+    
  
  
     "test1":{

@@ -8,7 +8,7 @@
 
 #import "VGLocalData.h"
 #import "VGParamGroup.h"
-static const NSString* path = @"/Users/jianghuifu/Desktop/code2/DIYFilter/DIYFilter/DIYFilter/DIYFilter/";
+static const NSString* path = @"/Users/jianghuifu/Desktop/code2/dsfaosfnaghdsfgs/DIYFilter/DIYFilter";
 #define kLoaclFile(file) [NSString stringWithFormat:@"%@%@",path,(file)]
 @implementation VGLocalData
 -(void)start{

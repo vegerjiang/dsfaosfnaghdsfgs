@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>5D751687-ED83-4F39-B029-2A6158D41219</string>
+	<string>9BA7C05A-B6FC-4440-BFEC-F40A9A43E979</string>
 	<key>IDESourceControlProjectName</key>
 	<string>DIYFilter</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>FF17F7AA-8B1E-4B5A-AE30-DAE2E657426C</key>
-		<string>https://github.com/vegerjiang/DIYFilter.git</string>
+		<key>D0657C5C-59F7-4002-BEA7-4CA49F7EE270</key>
+		<string>https://github.com/vegerjiang/dsfaosfnaghdsfgs.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>DIYFilter/DIYFilter.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>FF17F7AA-8B1E-4B5A-AE30-DAE2E657426C</key>
+		<key>D0657C5C-59F7-4002-BEA7-4CA49F7EE270</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/vegerjiang/DIYFilter.git</string>
+	<string>https://github.com/vegerjiang/dsfaosfnaghdsfgs.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>FF17F7AA-8B1E-4B5A-AE30-DAE2E657426C</string>
+	<string>D0657C5C-59F7-4002-BEA7-4CA49F7EE270</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>FF17F7AA-8B1E-4B5A-AE30-DAE2E657426C</string>
+			<string>D0657C5C-59F7-4002-BEA7-4CA49F7EE270</string>
 			<key>IDESourceControlWCCName</key>
-			<string>DIYFilter</string>
+			<string>dsfaosfnaghdsfgs</string>
 		</dict>
 	</array>
 </dict>
